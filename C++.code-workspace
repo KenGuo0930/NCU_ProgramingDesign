@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp",
+			"random": "cpp",
+			"limits": "cpp",
+			"iostream": "cpp",
+			"iosfwd": "cpp",
+			"*.tcc": "cpp",
+			"memory_resource": "cpp",
+			"type_traits": "cpp"
+		}
+	}
+}
